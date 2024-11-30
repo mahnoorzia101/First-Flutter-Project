@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\business_logic",
+    "\\lib\\data",
+    "\\lib\\UI"
+  ],
+  "SelectedNode": "\\lib\\data\\api_service.dart",
+  "PreviewInSolutionExplorer": false
+}
